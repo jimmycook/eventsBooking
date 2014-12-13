@@ -1,0 +1,184 @@
+#wrapper-thin {
+	margin: auto;
+	width: 260px;
+	height: 100%;
+}
+
+#wrapper{
+	margin:auto;
+	width:60%;
+	height:100%;
+}
+
+#wrapper-regi{
+
+}
+
+#header-wrapper{
+	margin:auto;
+	width: 60%;
+	height:150px;
+	background-color:;
+	position: relative;
+
+}
+.footer{
+	position: absolute;
+	bottom:5px;
+	right:5%;
+	text-align: right;
+}
+
+.event{
+
+}
+
+.bot-right{
+	float: right;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+.top-left{
+	float: left;
+	position: absolute;
+	top:0;
+	left:0;
+	font-size: 30px;
+	font-weight: lighter;
+}
+
+.spacer{
+	height: 100px;
+}
+
+.invalid{
+	background-color: #f5f5f5;
+	padding-left:7px;
+	padding-right:7px;
+	height: 50px;
+	line-height: 28px;
+	text-align: center;
+	font-size: 12px;
+	border:1px solid #dcdcdc;
+	color: #B0B0B0;
+
+}
+	
+.highlight{
+	background-color: yellow;
+}
+
+.login{
+	margin: auto;
+	display:block;
+	width: 100%;
+	height: 40px;
+	padding: 0;
+	text-indent: 10px;
+    border-width: 0;
+    outline-width: 3px;
+    border: none;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.2) inset, 0 -1px 0 rgba(0,0,0,0.05) inset;
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 13px;
+    color: #222222;
+    position: relative;
+    &:focus{
+        box-shadow: 0 1px 0 #2392F3 inset, 0 -1px 0 #2392F3 inset, 1px 0 0 #2392F3 inset, -1px 0 0 #2392F3 inset, 0 0 4px rgba(35,146,243,0.5);
+        outline: none;
+    }
+}
+
+.regi{
+	margin: auto;
+	display:block;
+	width: 100%;
+	height: 30px;
+	padding: 0;
+	text-indent: 10px;
+    border-width: 0;
+    outline-width: 3px;
+    margin-bottom: 5px;
+    border: none;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.2) inset, 0 -1px 0 rgba(0,0,0,0.05) inset;
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 13px;
+    color: #222222;
+    position: relative;
+}
+
+.interest{
+	width: 100%;
+	height: 30px;
+	margin-bottom: 5px;
+   	font-family: "Helvetica Neue", sans-serif;
+   	font-size: 13px;
+
+}
+
+.submit-button{
+	text-indent:0;
+	color: #FFFFFF;
+	background-color: #428bca;	
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:50px;
+	line-height:50px;
+	width:100%;
+	text-decoration:none;
+	text-align:center;
+	
+
+	/*border: 2px	;*/
+} 
+
+
+
+.regilogin{
+	float: right;
+	width: 260px;
+}
+
+.submit-button:disabled{
+	color:#c1c1c1;
+	background-color: #F5F5F5;
+}
+
+.smalltext a:link{
+	font-size:13px;
+	color: #B0B0B0;
+}
+
+.pullright{	
+	text-align: right;
+}
+
+.pullmid{
+	text-align: center;
+}
+
+.pullleft{
+	float: left;
+}
+
+body {
+	background-color: #F5F5F5;
+	text-align: left;
+    font-family: "Helvetica Neue", sans-serif;
+	color: ;
+}
+
+a:link {
+    color: #638CAD;
+}
+
+h2 {
+	text-align: center;
+	color: #B0B0B0;
+}
