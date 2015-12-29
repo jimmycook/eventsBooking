@@ -1,3 +1,3 @@
 # eventsBooking
 
-This is my first ever PHP project; up here to laugh at.
+This is my first ever PHP project and is up here to laugh and cringe at.
